@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/about-virtual-tout/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/about-virtual-tout/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a virtual tout?</title>
+      <link>http://localhost:1313/about-virtual-tout/1-about-virtual-tout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about-virtual-tout/1-about-virtual-tout/</guid>
+      <description>The history and meaning of the name</description>
+    </item>
+  </channel>
+</rss>

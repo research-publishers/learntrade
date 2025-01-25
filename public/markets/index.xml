@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial Markets on </title>
+    <link>http://localhost:1313/markets/</link>
+    <description>Recent content in Financial Markets on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/markets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-Driven Investments</title>
+      <link>http://localhost:1313/markets/4-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/4-markets/</guid>
+      <description>Automated selection, testing, and trading</description>
+    </item>
+    <item>
+      <title>Trend Following</title>
+      <link>http://localhost:1313/markets/3-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/3-markets/</guid>
+      <description>Follow a plan while controlling for risk</description>
+    </item>
+    <item>
+      <title>Technical Analysis</title>
+      <link>http://localhost:1313/markets/2-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/2-markets/</guid>
+      <description>Invest when the price is right</description>
+    </item>
+    <item>
+      <title>Fundamental Analysis</title>
+      <link>http://localhost:1313/markets/1-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/1-markets/</guid>
+      <description>Invest in good companies</description>
+    </item>
+  </channel>
+</rss>

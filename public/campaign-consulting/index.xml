@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campaign Consulting on </title>
+    <link>http://localhost:1313/campaign-consulting/</link>
+    <description>Recent content in Campaign Consulting on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/campaign-consulting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Putting Winning Messages into Practice</title>
+      <link>http://localhost:1313/campaign-consulting/2-campaign-consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/campaign-consulting/2-campaign-consulting/</guid>
+      <description>Data- and analytics-driven campaigns</description>
+    </item>
+    <item>
+      <title>CanFan: Candidate Canvassing</title>
+      <link>http://localhost:1313/campaign-consulting/1-campaign-consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/campaign-consulting/1-campaign-consulting/</guid>
+      <description>Friend-to-friend communications</description>
+    </item>
+  </channel>
+</rss>

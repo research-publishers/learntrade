@@ -1,0 +1,53 @@
+{{ define "main" }}
+  <article>
+    <header class="max-w-prose">
+      {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
+        {{ partial "breadcrumbs.html" . }}
+      {{ end }}
+      <h2 class="mt-0 text-2xl font-bold text-neutral-900 dark:text-neutral">
+        {{ .Title | emojify }}
+      </h2>
+      {{ if (.Site.Params.article.showAuthor | default false) }}
+        <h3 class="mt-0 text-1x1 text-neutral-900 dark:text-neutral">
+          {{ $.Param "articleauthor.display_name" | markdownify | emojify }}
+        </h3>
+      {{ end }}
+      {{ if (.Site.Params.article.showDate | default false) }}
+        <h3 class="mt-0 text-1xl text-neutral-900 dark:text-neutral">
+          {{ .Date | time.Format ":date_long" }}
+        </h3>
+      {{ end }}      
+      {{ if (.Site.Params.article.showSummary | default false) }}
+      <h3 class="mt-0 text-1xl text-neutral-900 dark:text-neutral">
+        {{ $.Param "summary" | markdownify | emojify }}
+      </h3>
+      <br>
+      <hr>
+    {{ end }}     
+
+    </header>
+    
+    <section class="flex flex-col max-w-full mt-0 prose lg:flex-row dark:prose-invert">
+      <div class="min-w-0 min-h-0 max-w-prose">
+        {{ .Content | emojify }}
+      </div>
+    </section>
+    <footer class="pt-8 max-w-prose print:hidden">
+      {{ partial "author.html" . }}
+      {{ partial "sharing-links.html" . }}
+      {{ partial "article-pagination.html" . }}
+      {{ if .Params.showComments | default (.Site.Params.article.showComments | default false) }}
+        {{ if templates.Exists "partials/comments.html" }}
+          <div class="pt-3">
+            <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+            <div class="pt-3">
+              {{ partial "comments.html" . }}
+            </div>
+          </div>
+        {{ else }}
+          {{ warnf "[CONGO] Comments are enabled for %s but no comments partial exists." .File.Path }}
+        {{ end }}
+      {{ end }}
+    </footer>
+  </article>
+{{ end }}

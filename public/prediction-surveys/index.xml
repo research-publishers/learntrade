@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Sources for Election Forecasts on </title>
+    <link>http://localhost:1313/prediction-surveys/</link>
+    <description>Recent content in Data Sources for Election Forecasts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/prediction-surveys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Election Forecasts with Hourly Updates</title>
+      <link>http://localhost:1313/prediction-surveys/2-prediction-surveys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/prediction-surveys/2-prediction-surveys/</guid>
+      <description>A simple chart tells the story</description>
+    </item>
+  </channel>
+</rss>

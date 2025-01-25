@@ -1,0 +1,28 @@
+/* Increase the default font size 
+and figure sizing idea https://github.com/wowchemy/wowchemy-hugo-themes/issues/862 */
+html {
+  font-size: 14pt;
+}
+.img-sm {
+  max-height: 300px;
+}
+
+.img-sm img{
+  max-height:300px
+}
+
+.img-lg {
+  max-height: 500px;
+}
+
+.img-lg img{
+  max-height:500px
+}
+
+.img-med {
+  max-height: 400px;
+}
+
+.img-med img{
+  max-height:400px
+}

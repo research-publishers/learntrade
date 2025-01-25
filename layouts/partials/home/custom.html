@@ -1,0 +1,9 @@
+<article class="max-w-full prose dark:prose-invert">
+    {{ with .Title }}
+      <header>
+        <h2>{{ . | emojify }}</h2>
+      </header>
+    {{ end }}
+    <section>{{ .Content | emojify }}</section>
+  </article>
+  

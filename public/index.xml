@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Markets, Models, and Money Mastery on </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Markets, Models, and Money Mastery on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-Driven Investments</title>
+      <link>http://localhost:1313/approaches/4-approaches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approaches/4-approaches/</guid>
+      <description>Automated selection, testing, and trading</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Data-Driven Investments</title>
+      <link>http://localhost:1313/markets/4-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/4-markets/</guid>
+      <description>Automated selection, testing, and trading</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Data-Driven Investments</title>
+      <link>http://localhost:1313/mastery/4-mastery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mastery/4-mastery/</guid>
+      <description>Automated selection, testing, and trading</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Data-Driven Investments</title>
+      <link>http://localhost:1313/models/4-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/models/4-models/</guid>
+      <description>Automated selection, testing, and trading</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Trend Following</title>
+      <link>http://localhost:1313/approaches/3-approaches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approaches/3-approaches/</guid>
+      <description>Follow a plan while controlling for risk</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Trend Following</title>
+      <link>http://localhost:1313/markets/3-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/3-markets/</guid>
+      <description>Follow a plan while controlling for risk</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Trend Following</title>
+      <link>http://localhost:1313/mastery/3-mastery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mastery/3-mastery/</guid>
+      <description>Follow a plan while controlling for risk</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Trend Following</title>
+      <link>http://localhost:1313/models/3-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/models/3-models/</guid>
+      <description>Follow a plan while controlling for risk</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Technical Analysis</title>
+      <link>http://localhost:1313/approaches/2-approaches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approaches/2-approaches/</guid>
+      <description>Invest when the price is right</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Technical Analysis</title>
+      <link>http://localhost:1313/markets/2-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/2-markets/</guid>
+      <description>Invest when the price is right</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Technical Analysis</title>
+      <link>http://localhost:1313/mastery/2-mastery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mastery/2-mastery/</guid>
+      <description>Invest when the price is right</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Technical Analysis</title>
+      <link>http://localhost:1313/models/2-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/models/2-models/</guid>
+      <description>Invest when the price is right</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Fundamental Analysis</title>
+      <link>http://localhost:1313/approaches/1-approaches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/approaches/1-approaches/</guid>
+      <description>Invest in good companies</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Fundamental Analysis</title>
+      <link>http://localhost:1313/markets/1-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/1-markets/</guid>
+      <description>Invest in good companies</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Fundamental Analysis</title>
+      <link>http://localhost:1313/mastery/1-mastery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mastery/1-mastery/</guid>
+      <description>Invest in good companies</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Fundamental Analysis</title>
+      <link>http://localhost:1313/models/1-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/models/1-models/</guid>
+      <description>Invest in good companies</description>
+      <content:encoded>
+      <![CDATA[
+      <p>There is the <a href="https://go.dev/play/" target="_blank" rel="noreferrer">Go Playground</a> and <a href="https://go.dev/tour/welcome/1" target="_blank" rel="noreferrer">A Tour of Go</a> to get started.</p>
+<p>Additional Online Resources:</p>
+<ul>
+<li><a href="https://www.youtube.com/@GopherAcademy" target="_blank" rel="noreferrer">Gopher Academy</a> delivers recordings from technical presentations, many from including <a href="https://www.gophercon.com/" target="_blank" rel="noreferrer">GopherCon conferences</a>. And the <a href="https://blog.gopheracademy.com/" target="_blank" rel="noreferrer">Gopher Academy Blog</a> publishes articles and tutorials from the Gopher Community.</li>
+<li><a href="https://changelog.com/gotime" target="_blank" rel="noreferrer">Go Time Podcasts</a> provides wide-ranging discussions across the diverse Go community.</li>
+<li><a href="https://go.dev/blog/" target="_blank" rel="noreferrer">The Go Blog</a> collects blog posts relating to developments with the Go programming language. There are also posts presenting survey results: <a href="https://go.dev/blog/survey2023-q1-results" target="_blank" rel="noreferrer">Go Developer Survey 2023 Q1 Results</a>.</li>
+<li><a href="https://golab.io/" target="_blank" rel="noreferrer">GOLAB</a> sponsors international conferences on Go software engineering.</li>
+<li><a href="https://www.golangprojects.com/" target="_blank" rel="noreferrer">Golangprojects</a> posts job opportunities for Go developers.</li>
+<li>golangbridge sponsors the <a href="https://invite.slack.golangbridge.org" target="_blank" rel="noreferrer">Gopher Slack Workspace</a> and <a href="https://forum.golangbridge.org," target="_blank" rel="noreferrer">Go Forum</a> to connect gophers from around the world.</li>
+<li><a href="https://go.libhunt.com/projects" target="_blank" rel="noreferrer">Awesome Go</a> lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review <a href="https://github.com/TheAlgorithms/Go" target="_blank" rel="noreferrer">TheAlgorithms/Go</a> and <a href="https://github.com/emirpasic/gods" target="_blank" rel="noreferrer">GoDS</a> to see common algorithms and data structures implemented in Go.</li>
+</ul>
+<p>Go to 
+      
+    <a href="/approaches/">Trading Approaches</a></p>
+<p>Go to the home page 
+      
+    <a href="/">Learning to Trade</a></p>
+
+      ]]>
+      </content:encoded>
+    </item>
+  </channel>
+</rss>

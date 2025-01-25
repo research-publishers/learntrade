@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political Research and Forecasting on </title>
+    <link>http://localhost:1313/election-forecasting/</link>
+    <description>Recent content in Political Research and Forecasting on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/election-forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More about Political Research</title>
+      <link>http://localhost:1313/election-forecasting/6-election-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/election-forecasting/6-election-forecasting/</guid>
+      <description>Demographics, candidate speech, and experiments</description>
+    </item>
+    <item>
+      <title>Political Contributions</title>
+      <link>http://localhost:1313/election-forecasting/5-election-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/election-forecasting/5-election-forecasting/</guid>
+      <description>Following the money when possible</description>
+    </item>
+    <item>
+      <title>Prediction Markets</title>
+      <link>http://localhost:1313/election-forecasting/4-election-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/election-forecasting/4-election-forecasting/</guid>
+      <description>Selecting a trustworthy data source</description>
+    </item>
+    <item>
+      <title>Political Polling Today</title>
+      <link>http://localhost:1313/election-forecasting/3-election-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/election-forecasting/3-election-forecasting/</guid>
+      <description>Variability across pollsters</description>
+    </item>
+    <item>
+      <title>History of Political Polls</title>
+      <link>http://localhost:1313/election-forecasting/2-election-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/election-forecasting/2-election-forecasting/</guid>
+      <description>Assessing voter preferences through the years</description>
+    </item>
+    <item>
+      <title>Historical Approach to Forecasting</title>
+      <link>http://localhost:1313/election-forecasting/1-election-forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/election-forecasting/1-election-forecasting/</guid>
+      <description>Assessing the importance of key factors</description>
+    </item>
+  </channel>
+</rss>
