@@ -102,21 +102,19 @@
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/approaches/</loc>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/markets/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/models/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
           </url>
     
   
@@ -127,8 +125,10 @@
     
   
     
+  
+    
       <url>
-            <loc>http://localhost:1313/models/</loc>
+            <loc>http://localhost:1313/approaches/</loc>
           </url>
     
   

@@ -28,10 +28,10 @@ The [Master of Science in Data Science (MSDS)](/curriculum/) program offers five
 - [MSDS 459 Knowledge Engineering](/knowledge-engineering/)
    
 The MSDS program also offers training in Python, R, and SQL. See [Languages for Data Science](/three-languages/).
-
+#### Course content is complemented by online learning resources:
 -->
 
-#### Course content is complemented by online learning resources:
+
 
 
 

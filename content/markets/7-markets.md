@@ -1,5 +1,5 @@
 {
-  "title": "Commodities",
+  "title": "Indices",
   "articleauthor": {
              "display_name": "",
              "thumbnail":"", 
@@ -10,9 +10,9 @@
              "twitter_handle": ""},
   "skip_date": true,                     
   "date": "",                    
-  "weight": 80,
+  "weight": 40,
   "draft": false,
-  "summary": "Following the prices",
+  "summary": "Market-wide diversification",
   "layout": "single"
 }
 
@@ -31,4 +31,3 @@ Additional Online Resources:
 Go to [Financial Markets](/markets/)
 
 Go to the home page [Learning to Trade](/)
-

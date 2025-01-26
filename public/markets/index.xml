@@ -8,32 +8,67 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/markets/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data-Driven Investments</title>
+      <title>Exchange-Traded Funds</title>
+      <link>http://localhost:1313/markets/9-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/9-markets/</guid>
+      <description>Flexible, managed diversification</description>
+    </item>
+    <item>
+      <title>Mutual Funds</title>
+      <link>http://localhost:1313/markets/8-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/8-markets/</guid>
+      <description>Managed diversification</description>
+    </item>
+    <item>
+      <title>Indices</title>
+      <link>http://localhost:1313/markets/7-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/7-markets/</guid>
+      <description>Market-wide diversification</description>
+    </item>
+    <item>
+      <title>Prediction Markets</title>
+      <link>http://localhost:1313/markets/6-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/6-markets/</guid>
+      <description>Hedging with event futures</description>
+    </item>
+    <item>
+      <title>Futures and Options</title>
+      <link>http://localhost:1313/markets/5-markets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markets/5-markets/</guid>
+      <description>Hedging to reduce risk</description>
+    </item>
+    <item>
+      <title>Currencies (Including Cryptocurrency)</title>
       <link>http://localhost:1313/markets/4-markets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/markets/4-markets/</guid>
-      <description>Automated selection, testing, and trading</description>
+      <description>Relative prices and trust</description>
     </item>
     <item>
-      <title>Trend Following</title>
+      <title>Commodities</title>
       <link>http://localhost:1313/markets/3-markets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/markets/3-markets/</guid>
-      <description>Follow a plan while controlling for risk</description>
+      <description>Following the prices</description>
     </item>
     <item>
-      <title>Technical Analysis</title>
+      <title>Bond Markets</title>
       <link>http://localhost:1313/markets/2-markets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/markets/2-markets/</guid>
-      <description>Invest when the price is right</description>
+      <description>Interest rates, prices, and returns</description>
     </item>
     <item>
-      <title>Fundamental Analysis</title>
+      <title>Stock Markets</title>
       <link>http://localhost:1313/markets/1-markets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/markets/1-markets/</guid>
-      <description>Invest in good companies</description>
+      <description>Equities are part of most portfolios</description>
     </item>
   </channel>
 </rss>

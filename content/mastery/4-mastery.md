@@ -1,5 +1,5 @@
 {
-  "title": "Data-Driven Investments",
+  "title": "Data-Driven Money Management",
   "articleauthor": {
              "display_name": "",
              "thumbnail":"", 
@@ -28,6 +28,6 @@ Additional Online Resources:
 - golangbridge sponsors the [Gopher Slack Workspace](https://invite.slack.golangbridge.org) and [Go Forum](https://forum.golangbridge.org,) to connect gophers from around the world.
 - [Awesome Go](https://go.libhunt.com/projects) lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) and [GoDS](https://github.com/emirpasic/gods) to see common algorithms and data structures implemented in Go.
 
-Go to [Trading Approaches](/approaches/)
+Go to [Money Mastery](/mastery/)
 
 Go to the home page [Learning to Trade](/)

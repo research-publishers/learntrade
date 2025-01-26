@@ -1,5 +1,5 @@
 {
-  "title": "Commodities",
+  "title": "Predictive Models",
   "articleauthor": {
              "display_name": "",
              "thumbnail":"", 
@@ -10,9 +10,9 @@
              "twitter_handle": ""},
   "skip_date": true,                     
   "date": "",                    
-  "weight": 80,
+  "weight": 60,
   "draft": false,
-  "summary": "Following the prices",
+  "summary": "Learning from the past",
   "layout": "single"
 }
 
@@ -28,7 +28,6 @@ Additional Online Resources:
 - golangbridge sponsors the [Gopher Slack Workspace](https://invite.slack.golangbridge.org) and [Go Forum](https://forum.golangbridge.org,) to connect gophers from around the world.
 - [Awesome Go](https://go.libhunt.com/projects) lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) and [GoDS](https://github.com/emirpasic/gods) to see common algorithms and data structures implemented in Go.
 
-Go to [Financial Markets](/markets/)
+Go to [Financial Models](/models/)
 
 Go to the home page [Learning to Trade](/)
-

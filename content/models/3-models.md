@@ -1,5 +1,5 @@
 {
-  "title": "Trend Following",
+  "title": "Traditional Time Series",
   "articleauthor": {
              "display_name": "",
              "thumbnail":"", 
@@ -12,7 +12,7 @@
   "date": "",                    
   "weight": 80,
   "draft": false,
-  "summary": "Follow a plan while controlling for risk",
+  "summary": "Trends, cycles, and noise",
   "layout": "single"
 }
 
@@ -28,7 +28,7 @@ Additional Online Resources:
 - golangbridge sponsors the [Gopher Slack Workspace](https://invite.slack.golangbridge.org) and [Go Forum](https://forum.golangbridge.org,) to connect gophers from around the world.
 - [Awesome Go](https://go.libhunt.com/projects) lists many third-party packages, providing rankings in terms of popularity. Students new to Go may want to review [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) and [GoDS](https://github.com/emirpasic/gods) to see common algorithms and data structures implemented in Go.
 
-Go to [Trading Approaches](/approaches/)
+Go to [Financial Models](/models/)
 
 Go to the home page [Learning to Trade](/)
 
